@@ -5737,7 +5737,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </services>
 <CCVersions>
 <version id="9.7">
-<enabled>true</enabled>
+<enabled>false</enabled>
 <calculateCC>true</calculateCC>
 <showcase>true</showcase>
 <loanApplication>true</loanApplication>
@@ -5759,7 +5759,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showcaseDeeplink>true</showcaseDeeplink>
 </version>
 <version id="9.5">
-<enabled>true</enabled>
+<enabled>false</enabled>
 <calculateCC>true</calculateCC>
 <showcase>true</showcase>
 <loanApplication>true</loanApplication>
