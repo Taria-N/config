@@ -5748,7 +5748,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <showcaseDeeplink>true</showcaseDeeplink>
 </version>
 <version id="9.6">
-<enabled>true</enabled>
+<enabled>false</enabled>
 <calculateCC>true</calculateCC>
 <showcase>true</showcase>
 <loanApplication>true</loanApplication>
